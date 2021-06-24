@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:cqdcyonghao/blogs.git",
+  "author": "cqdcyonghao",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
