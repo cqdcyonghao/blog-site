@@ -3,7 +3,7 @@
  # @Author: Cheng
  # @Date: 2021-06-24 13:10:03
  # @LastEditors: Cheng
- # @LastEditTime: 2021-06-24 13:27:47
+ # @LastEditTime: 2021-06-24 13:57:57
 ### 
 #!/usr/bin/env sh
 
@@ -14,12 +14,12 @@ set -e
 npm run docs:build
 
 # 进入生成的文件夹
-cd .vuepress/dist
+cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
 
-git initß
+git init
 git add -A
 git commit -m 'deploy'
 
