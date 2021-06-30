@@ -3,7 +3,7 @@
  * @Author: Cheng
  * @Date: 2021-06-26 22:32:54
  * @LastEditors: Cheng
- * @LastEditTime: 2021-06-27 10:41:34
+ * @LastEditTime: 2021-06-28 15:39:37
  */
 module.exports = [
   { text: "主页", link: "/" },
@@ -11,7 +11,7 @@ module.exports = [
     text: "前端文章",
     items: [
       { text: "知识产出", items: [{ text: "vue相关", link: "/front-end/vue/" }] },
-      { text: "学习笔记", items: [{ text: "重读《JavaScript高级程序设计》", link: "/front-end/reread-js/" }] },
+      { text: "学习笔记", items: [{ text: "《JavaScript高级程序设计》", link: "/front-end/reread-js/" }] },
     ],
   },
   {

@@ -3,7 +3,7 @@
  # @Author: Cheng
  # @Date: 2021-06-24 13:10:03
  # @LastEditors: Cheng
- # @LastEditTime: 2021-06-27 11:22:21
+ # @LastEditTime: 2021-06-27 11:25:37
 ### 
 #!/usr/bin/env sh
 
@@ -11,7 +11,7 @@
 set -e
 
 # 生成静态文件
-npm run build
+yarn run build
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
