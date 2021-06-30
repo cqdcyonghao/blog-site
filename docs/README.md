@@ -1,11 +1,10 @@
 ---
-# layout: HomePage
 home: true
 heroImage: /img/bg.jpg
 heroText: cyh's blog
 tagline: 你只需要努力，剩下的交给时间。
 actionText: '开始进阶'
-actionLink: /front-end/vue/
+actionLink: /front-end/blog/
 features:
 - title: 博客文章
   details: 开发学习的知识产出
