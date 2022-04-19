@@ -3,13 +3,13 @@
  * @Author: Cheng
  * @Date: 2021-06-24 10:57:12
  * @LastEditors: Cheng
- * @LastEditTime: 2022-04-20 00:24:52
+ * @LastEditTime: 2022-04-20 00:47:13
  */
 const nav = require("./config/nav")
 const sidebar = require("./config/sidebar")
 const plugins = require("./config/plugins")
 module.exports = {
-  base: "/blog/",
+  base: "/blog-site/",
   title: "cyh's Blog",
   description: "你只需要努力，剩下的交给时间。",
   // html头部
