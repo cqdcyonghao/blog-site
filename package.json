@@ -8,7 +8,7 @@
     "deploy": "bash deploy.sh"
   },
   "main": "index.js",
-  "repository": "git@github.com:cqdcyonghao/blogs.git",
+  "repository": "git@github.com:cqdcyonghao/blog-site.git",
   "author": "cqdcyonghao",
   "license": "MIT",
   "devDependencies": {
