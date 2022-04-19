@@ -3,7 +3,7 @@
  # @Author: Cheng
  # @Date: 2021-06-24 13:10:03
  # @LastEditors: Cheng
- # @LastEditTime: 2021-06-27 11:25:37
+ # @LastEditTime: 2022-04-19 23:56:58
 ### 
 #!/usr/bin/env sh
 
@@ -23,6 +23,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:cqdcyonghao/blogs.git master:gh-pages
+git push -f git@github.com:cqdcyonghao/blog-site.git master:gh-pages
 
 cd -
